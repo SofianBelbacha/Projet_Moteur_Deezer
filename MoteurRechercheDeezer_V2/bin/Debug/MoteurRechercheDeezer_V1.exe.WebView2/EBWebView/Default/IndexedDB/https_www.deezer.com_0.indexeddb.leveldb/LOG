@@ -1,0 +1,7 @@
+2023/01/02-10:17:42.321 29c8 Reusing MANIFEST D:\Users\SOFIAN\Documents\ZiKnCo_MoteurRechercheDeezer\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.deezer.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/02-10:17:42.324 29c8 Recovering log #3
+2023/01/02-10:17:42.328 29c8 Reusing old log D:\Users\SOFIAN\Documents\ZiKnCo_MoteurRechercheDeezer\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.deezer.com_0.indexeddb.leveldb/000003.log 
+2023/01/02-11:05:53.763 3ab0 Level-0 table #5: started
+2023/01/02-11:05:53.771 3ab0 Level-0 table #5: 824 bytes OK
+2023/01/02-11:05:53.778 3ab0 Delete type=0 #3
+2023/01/02-11:05:53.781 3ab0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

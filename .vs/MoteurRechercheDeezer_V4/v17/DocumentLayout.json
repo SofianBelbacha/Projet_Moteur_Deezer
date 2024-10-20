@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\moteurrecherchedeezer_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|solutionrelative:moteurrecherchedeezer_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|c:\\users\\sofia\\documents\\etude\\btssio\\o.albert\\atelier\\moteurrecherchedeezer_v4\\moteurrecherchedeezer_v2\\frmdemarrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|solutionrelative:moteurrecherchedeezer_v2\\frmdemarrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\moteurrecherchedeezer_v2\\frmdemarrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|solutionrelative:moteurrecherchedeezer_v2\\frmdemarrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\moteurrecherchedeezer_v2\\frmcoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|solutionrelative:moteurrecherchedeezer_v2\\frmcoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\moteurrecherchedeezer_v2\\frmlecteurmultimedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|solutionrelative:moteurrecherchedeezer_v2\\frmlecteurmultimedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\moteurrecherchedeezer_v2\\frmcoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F06B0C8-46D2-4BCC-8719-9CE875E87AC2}|MoteurRechercheDeezer_V2\\MoteurRechercheDeezer_V4.csproj|solutionrelative:moteurrecherchedeezer_v2\\frmcoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDemarrage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmDemarrage.cs",
+              "RelativeDocumentMoniker": "MoteurRechercheDeezer_V2\\FrmDemarrage.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmDemarrage.cs [Design]",
+              "RelativeToolTip": "MoteurRechercheDeezer_V2\\FrmDemarrage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:19:21.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDemarrage.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmDemarrage.cs",
+              "RelativeDocumentMoniker": "MoteurRechercheDeezer_V2\\FrmDemarrage.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmDemarrage.cs",
+              "RelativeToolTip": "MoteurRechercheDeezer_V2\\FrmDemarrage.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAwwM4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:19:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCoverFlow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmCoverFlow.cs",
+              "RelativeDocumentMoniker": "MoteurRechercheDeezer_V2\\FrmCoverFlow.cs",
+              "ToolTip": "D:\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmCoverFlow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:19:23.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCoverFlow.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmCoverFlow.cs",
+              "RelativeDocumentMoniker": "MoteurRechercheDeezer_V2\\FrmCoverFlow.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmCoverFlow.cs",
+              "RelativeToolTip": "MoteurRechercheDeezer_V2\\FrmCoverFlow.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:19:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLecteurMultimedia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmLecteurMultimedia.cs",
+              "RelativeDocumentMoniker": "MoteurRechercheDeezer_V2\\FrmLecteurMultimedia.cs",
+              "ToolTip": "D:\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\FrmLecteurMultimedia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:19:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\Program.cs",
+              "RelativeDocumentMoniker": "MoteurRechercheDeezer_V2\\Program.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documents\\Etude\\BTSSIO\\O.Albert\\Atelier\\MoteurRechercheDeezer_V4\\MoteurRechercheDeezer_V2\\Program.cs",
+              "RelativeToolTip": "MoteurRechercheDeezer_V2\\Program.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAMYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:19:23.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

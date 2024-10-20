@@ -1,0 +1,169 @@
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe.config
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.pdb
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\CDI.IndexCard3D.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Btssio.xml
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\CDI.IndexCard3D.xml
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Interop.WMPLib.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.AssemblyReference.cache
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\Interop.WMPLib.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.ResolveComReference.cache
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmCoverFlow.resources
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmPlaylist.resources
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmRechercheAlbum.resources
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmLecteurMultimedia.resources
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmApropos.resources
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmDemarrage.resources
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.Properties.Resources.resources
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.GenerateResource.cache
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe.licenses
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CoreCompileInputs.cache
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CopyComplete
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe
+C:\Users\sofian.belbacha\Desktop\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.pdb
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.AssemblyReference.cache
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.SuggestedBindingRedirects.cache
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\Interop.WMPLib.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.ResolveComReference.cache
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmCoverFlow.resources
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmPlaylist.resources
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmRechercheAlbum.resources
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmLecteurMultimedia.resources
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmApropos.resources
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmDemarrage.resources
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.Properties.Resources.resources
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.GenerateResource.cache
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe.licenses
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CoreCompileInputs.cache
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.pdb
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe.config
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.pdb
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Btssio.xml
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\CDI.IndexCard3D.xml
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\Interop.WMPLib.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\SOFIAN\Documents\MoteurRechercheDeezer_V3 - Copie\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CopyComplete
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe.config
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.pdb
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Btssio.xml
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\CDI.IndexCard3D.xml
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Interop.WMPLib.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\AxInterop.WMPLib.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.AssemblyReference.cache
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.SuggestedBindingRedirects.cache
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\Interop.WMPLib.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\AxInterop.WMPLib.dll
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.ResolveComReference.cache
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmCoverFlow.resources
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmPlaylist.resources
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmRechercheAlbum.resources
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmLecteurMultimedia.resources
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmApropos.resources
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmDemarrage.resources
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.Properties.Resources.resources
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.GenerateResource.cache
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe.licenses
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CoreCompileInputs.cache
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CopyComplete
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe
+E:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.pdb
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe.config
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.pdb
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Btssio.xml
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\CDI.IndexCard3D.xml
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Interop.WMPLib.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\AxInterop.WMPLib.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.AssemblyReference.cache
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\Interop.WMPLib.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\AxInterop.WMPLib.dll
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.ResolveComReference.cache
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmCoverFlow.resources
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmPlaylist.resources
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmRechercheAlbum.resources
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmLecteurMultimedia.resources
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmApropos.resources
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmDemarrage.resources
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.Properties.Resources.resources
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.GenerateResource.cache
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe.licenses
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CoreCompileInputs.cache
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRe.9CE978AF.Up2Date
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe
+D:\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.pdb
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe.config
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.exe
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\MoteurRechercheDeezer_V1.pdb
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Btssio.xml
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\CDI.IndexCard3D.xml
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\Interop.WMPLib.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\Interop.WMPLib.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.ResolveComReference.cache
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmCoverFlow.resources
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmPlaylist.resources
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmRechercheAlbum.resources
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmLecteurMultimedia.resources
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmApropos.resources
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.FrmDemarrage.resources
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\ZiKnCo_MoteurRechercheDeezer.Properties.Resources.resources
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.GenerateResource.cache
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe.licenses
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V4.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRe.9CE978AF.Up2Date
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.exe
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier\MoteurRechercheDeezer_V4\MoteurRechercheDeezer_V2\obj\Debug\MoteurRechercheDeezer_V1.pdb
